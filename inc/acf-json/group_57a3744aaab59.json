@@ -1,0 +1,232 @@
+{
+    "key": "group_57a3744aaab59",
+    "title": "Login Page",
+    "fields": [
+        {
+            "key": "field_57a8ef4509dc7",
+            "label": "Enable Login Page Customizations",
+            "name": "enable_login_page_customizations",
+            "type": "checkbox",
+            "instructions": "By checking this box, the WordPress logo will be replaced by the default PETA2 logo. This logo can be overridden by uploading another logo below.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "choices": {
+                "1": "Enable Customizations"
+            },
+            "default_value": [],
+            "layout": "horizontal",
+            "toggle": 0,
+            "return_format": "value"
+        },
+        {
+            "key": "field_57a37452b9a96",
+            "label": "Login Page logo",
+            "name": "login_page_logo",
+            "type": "image",
+            "instructions": "Unlike the WordPress logo, which is 85px square, the preferred size here is 300px wide and 100px high. For other image sizes, the logo should crop to the center of the image.",
+            "required": 0,
+            "conditional_logic": [
+                [
+                    {
+                        "field": "field_57a8ef4509dc7",
+                        "operator": "==",
+                        "value": "1"
+                    }
+                ]
+            ],
+            "wrapper": {
+                "width": "",
+                "class": "login-logo",
+                "id": ""
+            },
+            "return_format": "url",
+            "preview_size": "medium",
+            "library": "all",
+            "min_width": "",
+            "min_height": "",
+            "min_size": "",
+            "max_width": "",
+            "max_height": "",
+            "max_size": "",
+            "mime_types": ""
+        },
+        {
+            "key": "field_57a3c96fa78d4",
+            "label": "Custom Message",
+            "name": "custom_message",
+            "type": "checkbox",
+            "instructions": "Click here to show a WYSIWYG editor where you can customize a message. The contents of the editor will display on the login page below the logo.",
+            "required": 0,
+            "conditional_logic": [
+                [
+                    {
+                        "field": "field_57a8ef4509dc7",
+                        "operator": "==",
+                        "value": "1"
+                    }
+                ]
+            ],
+            "wrapper": {
+                "width": "",
+                "class": "custom-message",
+                "id": ""
+            },
+            "choices": {
+                "1": "Show Custom Message"
+            },
+            "default_value": [],
+            "layout": "horizontal",
+            "toggle": 0,
+            "return_format": "value"
+        },
+        {
+            "key": "field_57a388e49b545",
+            "label": "Background Image",
+            "name": "background_image",
+            "type": "checkbox",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": [
+                [
+                    {
+                        "field": "field_57a8ef4509dc7",
+                        "operator": "==",
+                        "value": "1"
+                    }
+                ]
+            ],
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "choices": {
+                "1": "Use Custom Background Image"
+            },
+            "default_value": [],
+            "layout": "horizontal",
+            "toggle": 0,
+            "return_format": "value"
+        },
+        {
+            "key": "field_57a3748db9a97",
+            "label": "Login Page Intro",
+            "name": "login_page_intro",
+            "type": "wysiwyg",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": [
+                [
+                    {
+                        "field": "field_57a8ef4509dc7",
+                        "operator": "==",
+                        "value": "1"
+                    },
+                    {
+                        "field": "field_57a3c96fa78d4",
+                        "operator": "==",
+                        "value": "1"
+                    }
+                ]
+            ],
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "tabs": "all",
+            "toolbar": "full",
+            "media_upload": 1
+        },
+        {
+            "key": "field_57a374dbce4be",
+            "label": "Login Page Background Image",
+            "name": "login_page_background_image",
+            "type": "image",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": [
+                [
+                    {
+                        "field": "field_57a8ef4509dc7",
+                        "operator": "==",
+                        "value": "1"
+                    },
+                    {
+                        "field": "field_57a388e49b545",
+                        "operator": "==",
+                        "value": "1"
+                    }
+                ]
+            ],
+            "wrapper": {
+                "width": "",
+                "class": "login-logo",
+                "id": ""
+            },
+            "return_format": "url",
+            "preview_size": "medium",
+            "library": "all",
+            "min_width": "",
+            "min_height": "",
+            "min_size": "",
+            "max_width": "",
+            "max_height": "",
+            "max_size": "",
+            "mime_types": ""
+        },
+        {
+            "key": "field_57a3df41de6f9",
+            "label": "Formatted Text",
+            "name": "formatted_text",
+            "type": "checkbox",
+            "instructions": "By checking this box, the formatting of the text on the login page will change to improve legibility. However, there are no further customizations to this interface.",
+            "required": 0,
+            "conditional_logic": [
+                [
+                    {
+                        "field": "field_57a8ef4509dc7",
+                        "operator": "==",
+                        "value": "1"
+                    }
+                ]
+            ],
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "choices": {
+                "1": "Altered Text"
+            },
+            "default_value": [],
+            "layout": "horizontal",
+            "toggle": 0,
+            "return_format": "value"
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "options_page",
+                "operator": "==",
+                "value": "social-connect-options"
+            }
+        ]
+    ],
+    "menu_order": 1,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "left",
+    "instruction_placement": "field",
+    "hide_on_screen": "",
+    "active": 1,
+    "description": "",
+    "modified": 1471185044
+}

@@ -1,0 +1,27 @@
+body, html {
+	background: transparent;
+}
+
+body.login {
+	background-size: cover;
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+/*
+#login {
+	background: rgba( 255,255,25,.75 );
+	padding: 3rem;
+}
+*/
+.login form {
+	background: rgba( 255,255,255,.5 );
+	padding: 3rem;
+/*	border-radius: 50%;*/
+}
+
+.login #nav,
+.login #backtoblog {
+	background: rgba( 255,255,255,.5 );
+	padding: 1rem;
+}

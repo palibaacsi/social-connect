@@ -1,0 +1,9 @@
+#login {
+	background: rgba( 255, 255, 255, .75 );
+	padding: 3rem;
+}
+
+#login > p:nth-child(2) {
+	background: rgba( 255, 255, 255, .5 );
+	padding: 1rem;
+}

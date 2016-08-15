@@ -1,0 +1,622 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"twit",
+				"twitter_consumer_key"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"print",
+				"print_menu"
+			],
+			[
+				"woocomme",
+				"woocommerce"
+			],
+			[
+				"post_",
+				"post_expiration_timestamp"
+			],
+			[
+				"get_pst",
+				"get_post_meta"
+			],
+			[
+				"tim",
+				"timestamp"
+			],
+			[
+				"gmt",
+				"gmt_time"
+			],
+			[
+				"time",
+				"timezone"
+			],
+			[
+				"col",
+				"columns"
+			],
+			[
+				"det",
+				"detect_url"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"site",
+				"site_url"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"Spal",
+				"Splash2s"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"lables",
+				"labels"
+			],
+			[
+				"taxon",
+				"taxonomy"
+			],
+			[
+				"ga_cat",
+				"ga_categories"
+			],
+			[
+				"ga",
+				"ga_categories"
+			],
+			[
+				"pars",
+				"parse_categories"
+			],
+			[
+				"dev",
+				"dev_dashboard_section"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "class-dev-dashboard.php",
+			"settings":
+			{
+				"buffer_size": 5067,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 27.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pr",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"PHP Code Sniffer: ",
+				"PHP Code Sniffer: Switch coding standard"
+			],
+			[
+				"su",
+				"PHP Coding Standards Fixer: Fix this file (PHP Code Beautifier)"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"sublime",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/MAMP/htdocs/an-update-test/wp-content/plugins/social-connect/inc"
+	],
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/an-update-test/wp-content/plugins/social-connect/inc/class-dev-dashboard.php",
+		"/Applications/MAMP/htdocs/a-social-test/wp-content/plugins/social/inc/class-dev-dashboard.php",
+		"/Applications/MAMP/htdocs/an-update-test/wp-content/plugins/peta-google-analytics/inc/class-options-page.php",
+		"/Applications/MAMP/htdocs/an-update-test/wp-content/plugins/peta-social-connect/inc/js/accordion.js",
+		"/Applications/MAMP/htdocs/an-update-test/wp-content/plugins/peta-social-connect/inc/files/temp-social-remove.php",
+		"/Applications/MAMP/htdocs/an-update-test/wp-content/plugins/peta-social-connect/temp-social-remove.php",
+		"/Applications/MAMP/htdocs/an-update-test/wp-config.php",
+		"/Applications/MAMP/htdocs/peta2Revamp/wp-content/plugins/peta-social-connect/peta-social-connect.php",
+		"/Applications/MAMP/htdocs/peta2Revamp/wp-content/plugins/peta-social-connect/inc/class-login-page.php",
+		"/Applications/MAMP/htdocs/peta2Revamp/wp-content/plugins/peta-social-connect/inc/class-save-settings.php",
+		"/Applications/MAMP/htdocs/social-new/wp-content/plugins/social-connect/inc/class-options-page.php",
+		"/Applications/MAMP/htdocs/peta2Revamp/wp-content/plugins/peta2-admin/inc/class-acf-options-page.php",
+		"/Applications/MAMP/htdocs/peta2Revamp/wp-content/plugins/peta-social-connect/inc/css/login-logo.css",
+		"/Applications/MAMP/htdocs/peta2Revamp/wp-content/plugins/peta-social-connect/inc/css/login-background.css",
+		"/Applications/MAMP/htdocs/PETA2revamp-ptb/wp-0ther/dev-dashboard-login-page.php",
+		"/Applications/MAMP/htdocs/peta2Revamp/wp-content/plugins/peta-social-connect/inc/acf-json/acf-login-export.txt",
+		"/Applications/MAMP/htdocs/peta2Revamp/wp-content/plugins/peta-social-connect/inc/css/login-text.css",
+		"/Applications/MAMP/htdocs/peta2Revamp/wp-content/themes/peta2-foundation/acf-json/group_57a3744aaab59.json",
+		"/Applications/MAMP/htdocs/peta2Revamp/wp-content/plugins/peta-social-connect/inc/acf-json/tmp/group_57a3744aaab59.json",
+		"/Applications/MAMP/htdocs/peta2Revamp/wp-content/plugins/peta-social-connect/inc/css/login-locked.css",
+		"/Applications/MAMP/htdocs/peta2Revamp/wp-content/plugins/peta-social-connect/inc/acf-json/group_57a3744aaab59.json",
+		"/Applications/MAMP/htdocs/peta2Revamp/wp-content/plugins/peta-social-connect/inc/class-wp-logging.php",
+		"/Applications/MAMP/htdocs/peta2Revamp/wp-content/plugins/peta2-splash/inc/class-setup-functions.php",
+		"/Applications/MAMP/htdocs/peta2Revamp/wp-content/plugins/peta-social-connect/inc/class-login-helpers.php",
+		"/Applications/MAMP/htdocs/peta2Revamp/wp-config.php",
+		"/Applications/MAMP/htdocs/peta2Revamp/wp-content/plugins/peta2-admin/inc/class-admin-menu-removal.php",
+		"/Applications/MAMP/htdocs/peta2Revamp/wp-content/plugins/peta2-admin/inc/class-admin-menu-renaming.php",
+		"/Applications/MAMP/htdocs/peta2Revamp/wp-content/plugins/peta2-admin/inc/class-admin-menu-reordering.php",
+		"/Applications/MAMP/htdocs/single-test/wp-content/themes/bp2016/comments.php",
+		"/Applications/MAMP/htdocs/peta2Revamp/wp-content/plugins/a-temp-gf/temp-classes/class-dev-dashboard.php",
+		"/Applications/MAMP/htdocs/peta2Revamp/wp-content/plugins/a-temp-gf/temp-classes/class-wp-logging.php",
+		"/Applications/MAMP/htdocs/peta2Revamp/wp-content/plugins/peta-google-analytics/inc/class-options-page.php",
+		"/Applications/MAMP/htdocs/peta2Revamp/wp-content/plugins/peta-social-connect/inc/class-constants.php",
+		"/Applications/MAMP/htdocs/7emp/4ptb/tmp/id_rsa",
+		"/Applications/MAMP/htdocs/7emp/4ptb/tmp/id_rsa.pub",
+		"/Applications/MAMP/htdocs/peta2Revamp/wp-content/plugins/peta-social-connect/inc/admin/config.php",
+		"/Applications/MAMP/htdocs/peta2Revamp/wp-content/plugins/peta-standard-shortcodes/peta-standard-shortcodes.php",
+		"/Applications/MAMP/htdocs/peta2Revamp/wp-content/plugins/peta2-admin/inc/class-run-cron-check.php",
+		"/Applications/MAMP/htdocs/peta2Revamp/wp-includes/class-wp-post.php",
+		"/Applications/MAMP/htdocs/peta2Revamp/wp-content/plugins/peta-standard-shortcodes/inc/class-shortcode-options.php",
+		"/Applications/MAMP/htdocs/peta2Revamp/wp-content/plugins/peta-standard-shortcodes/inc/class-standard-shortcodes-tinymce.php",
+		"/Applications/MAMP/htdocs/peta2Revamp/wp-content/plugins/peta-content-expiration/includes/process-expirations.php",
+		"/Applications/MAMP/htdocs/peta2Revamp/wp-content/plugins/peta-standard-shortcodes-old/peta-standard-shortcodes.php",
+		"/Applications/MAMP/htdocs/peta2Revamp/wp-content/plugins/peta2-admin/inc/class-add-post-expiration.php",
+		"/Applications/MAMP/htdocs/peta2Revamp/wp-content/plugins/peta2-admin/peta2-admin.php",
+		"/Applications/MAMP/htdocs/peta2Revamp/wp-content/plugins/peta-social-connect/inc/class-setup-functions.php",
+		"/Applications/MAMP/htdocs/peta2Revamp/wp-content/plugins/peta-social-connect/inc/class-post-types.php",
+		"/Applications/MAMP/htdocs/peta2Revamp/wp-content/plugins/peta-social-connect/inc/class-dev-dashboard.php",
+		"/Applications/MAMP/htdocs/peta2Revamp/wp-content/plugins/peta-social-connect/inc/class-admin-menus.php",
+		"/Applications/MAMP/htdocs/peta2Revamp/wp-content/plugins/peta-social-connect/autoload.php",
+		"/Applications/MAMP/htdocs/peta2Revamp/wp-content/plugins/aaa-peta-dev/inc/class-dev-dashboard.php",
+		"/Applications/MAMP/htdocs/peta2Revamp/wp-content/plugins/nextend-twitter-connect/nextend-twitter-settings.php",
+		"/Applications/MAMP/htdocs/peta2Revamp/wp-content/plugins/peta2-admin/inc/css/admin.css",
+		"/Applications/MAMP/htdocs/peta2Revamp/wp-content/plugins/peta2-admin/inc/class-add-post-expiration0ld.php",
+		"/Applications/MAMP/htdocs/peta2Revamp/wp-content/plugins/peta2-admin/inc/files/init-admin.php",
+		"/Users/paul/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/paul/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Applications/MAMP/htdocs/peta2Revamp/wp-content/plugins/peta2-upgraded-shortcodes/peta2-upgraded-shortcodes.php",
+		"/Applications/MAMP/htdocs/peta2Revamp/wp-content/plugins/peta2-upgraded-shortcodes/inc/class-dev-dashboard.php",
+		"/Applications/MAMP/htdocs/RRrR2/wp-content/plugins/peta2-upgraded-shortcodes/inc/class-upgraded-shortcodes.php",
+		"/Applications/MAMP/htdocs/RRrR2/wp-content/plugins/peta2-upgraded-shortcodes/inc/class-setup-functions.php",
+		"/Applications/MAMP/htdocs/RRrR2/wp-content/plugins/peta2-upgraded-shortcodes/inc/class-formbuilder-shortcode.php",
+		"/Applications/MAMP/htdocs/RRrR2/wp-content/plugins/peta2-standard-shortcodes/inc/shortcodes.php",
+		"/Applications/MAMP/htdocs/RRrR2/wp-content/plugins/peta2-upgraded-shortcodes/peta2-upgraded-shortcodes.php",
+		"/Applications/MAMP/htdocs/RRrR2/wp-content/plugins/peta2-upgraded-shortcodes/inc/class-dev-dashboard.php",
+		"/Applications/MAMP/htdocs/RRrR2/wp-content/plugins/peta2-upgraded-shortcodes/inc/class-admin-menus.php",
+		"/Applications/MAMP/htdocs/RRrR2/wp-content/plugins/peta2-standard-shortcodes/filters-for-video-player-on-sites.php",
+		"/Applications/MAMP/htdocs/RRrR2/wp-content/plugins/peta2-standard-shortcodes/inc/peta-standard-shortcodes-tinymce.php",
+		"/Applications/MAMP/htdocs/RRrR2/wp-content/plugins/peta2-upgraded-shortcodes/autoload.php",
+		"/Applications/MAMP/htdocs/RRrR2/wp-content/plugins/peta2-upgraded-shortcodes/inc/js/jquery.als.js",
+		"/Applications/MAMP/htdocs/RRrR2/wp-content/plugins/peta2-upgraded-shortcodes/inc/js/jquery-youtube-multiplayer.js",
+		"/Applications/MAMP/htdocs/RRrR2/wp-content/plugins/peta2-upgraded-shortcodes/inc/css/shortcodes.css",
+		"/Applications/MAMP/htdocs/RRrR2/wp-content/plugins/peta2-upgraded-shortcodes/inc/classes/class-admin-menus.php",
+		"/Applications/MAMP/htdocs/RRrR2/wp-content/plugins/peta2-upgraded-shortcodes/peta-standard-shortcodes.php",
+		"/Applications/MAMP/htdocs/PETA2revamp-ptb/wp-0ther/peta-admin/acf-profile-fields.json",
+		"/Applications/MAMP/htdocs/peta2Revamp/wp-content/plugins/a-temp-gf/a-tem66p-gf.php",
+		"/Applications/MAMP/htdocs/peta2Revamp/wp-content/plugins/peta-gravity-forms-convio-add-on/convio/table_map.php",
+		"/Applications/MAMP/htdocs/peta2Revamp/wp-content/plugins/wordpress-seo/admin/formatter/class-metabox-formatter.php",
+		"/Applications/MAMP/htdocs/peta2Revamp/wp-content/plugins/aaa-peta-dev/inc/class-foo-widget.php",
+		"/Applications/MAMP/htdocs/PETA/wp-content/plugins/peta-placement/inc/pos-class-wp-posts-list-table.php",
+		"/Users/paul/Library/Application Support/Sublime Text 3/Packages/Phpcs/phpcs.sublime-settings",
+		"/Applications/MAMP/htdocs/peta2Revamp/wp-content/plugins/peta2-admin/inc/class-add-user-role.php",
+		"/Applications/MAMP/htdocs/7emp/wp-forums/test.php",
+		"/Applications/MAMP/htdocs/social-login/wp-content/plugins/ptb-classy-comments/peta-prime-classy-comments.php",
+		"/Applications/MAMP/htdocs/social-login/wp-content/plugins/peta-social-login/inc/js/facebook.js",
+		"/Applications/MAMP/htdocs/social-login/wp-config.php",
+		"/Applications/MAMP/htdocs/social-login/wp-content/plugins/namespaced-starter-plugin/inc/classes/class-dev-dashboard.php",
+		"/Applications/MAMP/htdocs/social-login/wp-content/plugins/namespaced-starter-plugin/readme.txt",
+		"/Applications/MAMP/htdocs/social-login/wp-content/plugins/namespaced-starter-plugin/inc/classes/class-post-types.php",
+		"/Applications/MAMP/htdocs/social-login/wp-content/plugins/namespaced-starter-plugin/inc/classes/class-admin-menus.php",
+		"/Applications/MAMP/htdocs/social-login/wp-content/plugins/namespaced-starter-plugin/inc/classes/class-setup-functions.php",
+		"/Applications/MAMP/htdocs/social-login/wp-content/plugins/namespaced-starter-plugin/inc/css/admin.css",
+		"/Applications/MAMP/htdocs/social-login/wp-content/plugins/namespaced-starter-plugin/inc/classes/class-dev-dash-board.php",
+		"/Applications/MAMP/htdocs/social-login/wp-content/plugins/namespaced-starter-plugin/inc/classes/class-admin-menu-removal.php",
+		"/Applications/MAMP/htdocs/social-login/wp-content/plugins/namespaced-starter-plugin/inc/classes/class-geo.php",
+		"/Applications/MAMP/htdocs/social-login/wp-content/plugins/namespaced-starter-plugin/inc/classes/class-akamai-header.php",
+		"/Applications/MAMP/htdocs/social-login/wp-content/plugins/namespaced-starter-plugin/autoload.php",
+		"/Applications/MAMP/htdocs/social-login/wp-content/plugins/namespaced-starter-plugin/inc/classes/class-splash-pages.php",
+		"/Applications/MAMP/htdocs/PETA2revamp/wp-content/plugins/peta-social-login/autoload.php",
+		"/Applications/MAMP/htdocs/PETA2revamp/wp-content/plugins/peta-social-login/peta-social-login.php",
+		"/Applications/MAMP/htdocs/PETA2revamp/wp-content/plugins/peta-social/peta-social.php",
+		"/Applications/MAMP/htdocs/PETA2revamp/wp-content/plugins/peta-social-login/inc/class-social-login.php",
+		"/Applications/MAMP/htdocs/PETA2revamp/wp-content/plugins/peta-simple-facebook-connect/sfc.php",
+		"/Applications/MAMP/htdocs/PETA2revamp/wp-content/plugins/peta-simple-facebook-connect/sfc-base.php",
+		"/Applications/MAMP/htdocs/PETA2revamp/wp-content/plugins/aaaadmin/autoload.php",
+		"/Applications/MAMP/htdocs/PETA2revamp/wp-content/plugins/peta-admin/inc/class-admin-menu-removal.php",
+		"/Applications/MAMP/htdocs/PETA2revamp/wp-content/plugins/aaaadmin/inc/class-admin-menu.php",
+		"/Applications/MAMP/htdocs/PETA2revamp/wp-content/plugins/aaaadmin/inc/class-admin-menu-renaming.php",
+		"/Applications/MAMP/htdocs/PETA2revamp/wp-content/plugins/gravityformsuserregistration/class-gf-user-registration.php",
+		"/Applications/MAMP/htdocs/PETA2revamp/wp-content/plugins/peta-admin/inc/class-dev-dashboard.php",
+		"/Applications/MAMP/htdocs/PETA2revamp/wp-content/plugins/aahtest/aahtest.php",
+		"/Applications/MAMP/htdocs/PETA2revamp/wp-content/plugins/peta-admin/inc/class-admin-menu-reordering.php",
+		"/Applications/MAMP/htdocs/PETA2revamp/wp-0ther/class-dev-dashboard.php",
+		"/Applications/MAMP/htdocs/PETA2revamp/wp-content/plugins/peta-admin/inc/css/admin.css",
+		"/Applications/MAMP/htdocs/PETA2revamp/wp-content/plugins/peta-admin/peta-admin.php",
+		"/Applications/MAMP/htdocs/PETA2revamp/wp-content/plugins/peta-admin/inc/class-admin-submenu-removal.php",
+		"/Applications/MAMP/htdocs/PETA2revamp/wp-content/plugins/peta-temp/class-post-types.php",
+		"/Applications/MAMP/htdocs/PETA2revamp/wp-content/plugins/peta-content/inc/class-post-types.php",
+		"/Applications/MAMP/htdocs/PETA2revamp/wp-content/themes/peta2-foundation/functions.php",
+		"/Applications/MAMP/htdocs/PETA2revamp/wp-content/plugins/peta-splash/inc/classes/class-post-type.php",
+		"/Applications/MAMP/htdocs/PETA2revamp/wp-content/plugins/peta-admin/inc/class-admin-menu-modifications.php",
+		"/Applications/MAMP/htdocs/PETA2revamp/wp-content/themes/peta-prime-responsive/functions.php",
+		"/Applications/MAMP/htdocs/PETA2revamp/wp-content/plugins/peta-temp/class-admin-menu-modifications.php",
+		"/private/var/folders/rf/j85_0c2x2_l9wmm15c33c6zh0000gp/T/fz3temp-1/faq.css",
+		"/private/var/folders/rf/j85_0c2x2_l9wmm15c33c6zh0000gp/T/fz3temp-1/content.php",
+		"/Applications/MAMP/htdocs/PETA2revamp/wp-0ther/plugins/dbg__=Y",
+		"/Applications/MAMP/htdocs/PETA2revamp/wp-content/plugins/peta-splash/inc/classes/class-akamai-header.php",
+		"/Applications/MAMP/htdocs/PETA2revamp/wp-content/plugins/peta-splash/inc/classes/class-setup-functions.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"custom-js",
+			"wpb-",
+			"login_form_add_twitter_button",
+			"nextend_twit",
+			"help_options_page",
+			"twitter_connect_admin",
+			"help_options_page",
+			"Twitter Connect",
+			"add_acf_json_load_point",
+			"social_connect_dash",
+			"admin_menu",
+			"new_add_twitter_login_form",
+			"login_form_add_twitter_button",
+			") );",
+			");",
+			"add_action('",
+			"function",
+			"Login Page",
+			"h4",
+			" \n",
+			"{ ",
+			"function",
+			"(  )",
+			"admin_menu",
+			"Login_Page",
+			"add_action",
+			"my_debug_admin_menu",
+			"text",
+			"login_page_message",
+			"wp_login_styles",
+			"login-text",
+			"login_page_options",
+			"options",
+			"start_login_page_customizations",
+			"login-text",
+			"login_page_message",
+			"customize",
+			"add_logo_login_page",
+			"inc",
+			"add_login_page_customizations",
+			"add_action",
+			"wp_login_styles",
+			"add_login_page_customizations",
+			"[0]",
+			"add",
+			"start_login_page_customizations",
+			"foreach(",
+			"if(",
+			"){",
+			"add_login_page_customizations",
+			"add_acf_options_subpage",
+			"field_57a3e45fff336",
+			"add_acf_json_load_point",
+			"login_page_message",
+			"test_form_submission_script",
+			"add_logo_login_page",
+			"enqueue_ga_page_load_script",
+			"on_login_redirect",
+			"test_form_submission_script",
+			"array( __CLASS__, ",
+			"\n	public static ",
+			"reply",
+			"thought",
+			"dev_login_menu",
+			"test_form_submission_script",
+			"_e( ",
+			"sfc_plugin_help",
+			"));",
+			"To connect your site to Facebook, you will need a Facebook Application. If you have already created one, please insert your Application Secret and Application ID below.",
+			"!empty",
+			"sfc_",
+			"Avatars",
+			"'sfc'",
+			"Options relating to the Simple Facebook Connect plugins.",
+			"Facbook Connect Settings",
+			"'sfc'",
+			"page=",
+			"add_admin_menu",
+			"sfc_get_locale",
+			"=>",
+			"sfc_load_api()",
+			"sfc_add_base_js",
+			"function sfc_add_base_js",
+			"sfc_add_base_js",
+			"my-unique-identifier",
+			"\"",
+			"( )",
+			"[$obj]",
+			"y=>$",
+			"])",
+			"_e('",
+			"' ]",
+			"ned('S",
+			"__('",
+			"eld('s",
+			"'))",
+			"(defined('S",
+			"(define",
+			"sfc')",
+			");",
+			"', '",
+			"Options relating to the Simple Facebook Connect plugins.",
+			"add_admin_menu",
+			"sfc_add_base_js",
+			"// ",
+			"sfc_login_admin_header",
+			"sfc_login_check",
+			"sfc_login_avatar",
+			"// ",
+			"clear_ga_cache",
+			");\n",
+			"d)",
+			"s)",
+			"')",
+			"])",
+			"id);",
+			"sfc_add_admin_bar",
+			"sfc_admin_bar_my_account_menu",
+			"  );",
+			"(){",
+			"n('",
+			"!d",
+			"function  ",
+			");",
+			"logged_in_additional_fields",
+			"additional_fields",
+			"require_once (",
+			"401)"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'social-connect'",
+			"\n",
+			" )",
+			"( __FILE__ )",
+			"()",
+			" );",
+			"	",
+			"\n9",
+			"\n8",
+			"\n7",
+			"\n6",
+			"\n5",
+			"\n4",
+			"\n3",
+			"\n2",
+			"\n1",
+			"\n0",
+			"\n",
+			",",
+			"\n\n",
+			"p2gc3f_",
+			"==",
+			" ) )",
+			"( $",
+			" = ",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "class-dev-dashboard.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5067,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								775,
+								775
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "social-connect.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 276.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

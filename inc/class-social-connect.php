@@ -9,7 +9,7 @@ class Social_Connect {
 		add_action( 'admin_menu', array( __CLASS__, 'social_connect_dash' ) );
 		add_action( 'login_form', array( __CLASS__, 'login_form_add_fb_button' ) );
 		add_action( 'login_form', array( __CLASS__, 'login_form_add_twitter_button' ) );
-		// add_action( 'admin_menu', array( __CLASS__, 'remove_social_menus' ), 999 );
+		add_action( 'admin_menu', array( __CLASS__, 'remove_social_menus' ), 999 );
 		add_action( 'init', array( __CLASS__, 'social_connect_settings' ) );
 		add_filter( 'acf/settings/load_json', array( __CLASS__, 'add_acf_json_load_point' ) );
 	}

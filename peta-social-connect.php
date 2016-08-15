@@ -1,6 +1,6 @@
 <?php
 /*
-* Plugin Name: PETA Social Connect
+* Plugin Name: PTB Social Connect
 * Description: Customized Login Page, Register/Login with Facebook or Twitter
 * Version: 1.3.1
 * Author: PETA WP Dev Team
